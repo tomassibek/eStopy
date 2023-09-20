@@ -13,22 +13,25 @@ layout: default
 
 ## Muzika
 
-* [music.youtube.com/channel/@samotkebis](https://music.youtube.com/channel/UCHnO8ALKsBwft6_hiTtM2xw)
-* [bandcamp.com/djdrobek](https://bandcamp.com/djdrobek)
-* [last.fm/user/tomasmagda](https://www.last.fm/user/tomasmagda/)
-* [goout.net/cs/profile/tomas-sibek](https://goout.net/cs/profile/tomas-sibek/vkbpb/events/)
+* [YouTube Music](https://music.youtube.com/channel/UCHnO8ALKsBwft6_hiTtM2xw) – profil
+* [Bandcamp](https://bandcamp.com/djdrobek) – profil
+* [Last.fm](https://www.last.fm/user/tomasmagda/) – právě poslouchám
+* [GoOut](https://goout.net/cs/profile/tomas-sibek/vkbpb/events/) – chystám se na koncerty
 
 ## Různé
 
-* [github.com/tomassibek](https://github.com/tomassibek)
-* [google.cz/maps/tomas](https://www.google.cz/maps/contrib/100432664722506382824/)
-* [duolingo.com/profile/samot.kebis](https://www.duolingo.com/profile/samot.kebis)
-* [csfd.cz/uzivatel/891702-samotkebis](https://www.csfd.cz/uzivatel/891702-samotkebis)
+* [Duolingo](https://www.duolingo.com/profile/samot.kebis) – jazykový trénink
+* [GitHub](https://github.com/tomassibek) – kód, jen drobnosti, nejsem vývojář
+* [Google Mapy](https://www.google.cz/maps/contrib/100432664722506382824/) – recenze lokalit a podniků 
+* [ČSFD](https://www.csfd.cz/uzivatel/891702-samotkebis) – na filmy skoro není čas
 
 ## Sítě
 
-https://www.linkedin.com/in/sibek/
-https://twitter.com/samotkebis
-https://www.instagram.com/samotkebis/
-https://www.facebook.com/samotkebis
-https://www.flickr.com/photos/tomaass
+Na sítích jsem téměř neaktivní. Pro komunikaci preferuji * [tomas@sibek.cz](mailto:tomas@sibek.cz).
+
+* [Mastodon](https://mastodon.social/@sibek)
+* [LinkedIn](https://www.linkedin.com/in/sibek/)
+* [Twitter](https://twitter.com/samotkebis)
+* [Instagram](https://www.instagram.com/samotkebis/)
+* [Facebook](https://www.facebook.com/samotkebis)
+* [Flickr](https://www.flickr.com/photos/tomaass)

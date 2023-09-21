@@ -25,9 +25,13 @@ layout: default
 * [Google Mapy](https://www.google.cz/maps/contrib/100432664722506382824/) – recenze lokalit a podniků 
 * [ČSFD](https://www.csfd.cz/uzivatel/891702-samotkebis) – na filmy skoro není čas
 
+## E-mail
+
+* [tomas@sibek.cz](mailto:tomas@sibek.cz) – preferuji jako hlavní komunikační kanál
+
 ## Sítě
 
-Na sítích jsem téměř neaktivní. Pro komunikaci preferuji * [tomas@sibek.cz](mailto:tomas@sibek.cz).
+Jsem jen občasný pozorovatel dění, jinak téměř neaktivní.
 
 * [Mastodon](https://mastodon.social/@sibek)
 * [LinkedIn](https://www.linkedin.com/in/sibek/)

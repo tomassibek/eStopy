@@ -121,3 +121,22 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+```js
+// Javascript code with syntax highlighting.
+{
+  "23-09-22": {
+    "name": "Your first and last name",
+  }
+}
+```
+
+```js
+{
+  "day": {
+    "date": "2023-09-22",    
+    "log": "Your first and last name",
+  }
+}
+```

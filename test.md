@@ -52,13 +52,9 @@ end
 ###### Header 6
 
 | Datum      | A | B | C | D | E | F | G |
-|:-----------|:--|:--|:--|:--|:--|:--|:--|
 | 2023-09-24 | ? | ? | ? | ? | ? | ? | ? |
-|:-----------|:--|:--|:--|:--|:--|:--|:--|
 | 2023-09-23 | ? | ? | ? | ? | ? | ? | ? |
-|:-----------|:--|:--|:--|:--|:--|:--|:--|
 | 2023-09-22 | ? | ? | ? | ? | ? | ? | ? |
-|:-----------|:--|:--|:--|:--|:--|:--|:--|
 | 2023-09-21 | ? | ? | ? | ? | ? | ? | ? |
 
 ### There's a horizontal rule below this.
@@ -101,7 +97,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Tomáš](https://www.sibek.cz/wp-content/uploads/tomas_2021_vyrez.webp)
 
 
 ### Definition lists can be used with HTML syntax.

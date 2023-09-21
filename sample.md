@@ -140,3 +140,17 @@ The final element.
   }
 }
 ```
+
+```js
+  "day": {
+    "date": "2023-09-22",    
+    "log": "Your first and last name",
+  }
+```
+
+```
+  "day": {
+    "date": "2023-09-22",    
+    "log": "Your first and last name",
+  }
+```

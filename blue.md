@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Blue
+Teďka je trendy mít svůj habit tracker, Foglar tomu říkal Modrý život. I já mám snahu měnit svoje zvyky k lepšímu.
 * * *
 | Datum      | A | B | C | D | E | F | G |
 |:-----------|:--|:--|:--|:--|:--|:--|:--|

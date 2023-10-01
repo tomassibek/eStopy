@@ -5,8 +5,20 @@ layout: default
 # Log
 
 * * *
+`23-10-01`
+Přesun kosatců a čištění Břehu – část druhá.
+* * *
+`23-09-30`
+Vycházka – Vápenice u Koněprus a Axamitova brána.
+* * *
+`23-09-29`
+Sekání trávy. Cyklo vyjížďka podél Berounky. Přesun kosatců a čištění Břehu. 
+* * *
+`23-09-28`
+Čištění Průhonic.
+* * *
 `23-09-24`
-Vyházka k Zrzavému prameni. 
+Vyházka k prameni U rezavé vody. 
 * * *
 `23-09-23`
 Domácnost si žádá údržbu. Odpo vyjížďka na Zličín. Ukořistil jsem rychle doprodávanou knížku drsných dětských básniček „Tam uvnitř něco je“, kterou svým originálním nekonvenčním a v tomto případě trochu švankmajerovským způsobem ilustroval František Skála. Velká paráda. Posléze řeším s holkama sportovní vybavení. Nalodili jsme kamaráda Maťa a Hanku. Večer vysedáváme u ohýnku v „Průhonicích“. Různě mudrujeme a později se řeší praktické rady do světa produkce pro YouTube.

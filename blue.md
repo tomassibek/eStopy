@@ -7,7 +7,9 @@ layout: default
 Teďka je trendy mít svůj habit tracker, [Jaroslav Foglar](https://typomil.com/2018/10/dobry-den-jmenuji-se-martin-a-jsem-ten-uchyl-ktery-v-sestatriceti-zacal-zit-modrym-zivotem-jaroslava-foglara/) tomu říkal Modrý život. 
  
 I já mám snahu měnit svoje zvyky k lepšímu.
- 
+
+## 2023-10
+
 * * *
 
 | Datum    | A | B | C | D | E | F | G |
@@ -22,6 +24,15 @@ I já mám snahu měnit svoje zvyky k lepšímu.
 | 23-10-03 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-02 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-01 | 1 | ? | ? | ? | ? | ? | ? |
+ 
+* * *
+
+## 2023-10
+
+* * *
+
+| Datum    | A | B | C | D | E | F | G |
+|:---------|:--|:--|:--|:--|:--|:--|:--|
 | 23-09-30 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-09-29 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-09-28 | 1 | ? | ? | ? | ? | ? | ? |

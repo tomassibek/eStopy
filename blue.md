@@ -8,6 +8,7 @@ Teďka je trendy mít svůj habit tracker, [Jaroslav Foglar](https://typomil.com
  
 I já mám snahu měnit svoje zvyky k lepšímu.
  
+
 ## 2023-10
 
 * * *
@@ -25,6 +26,7 @@ I já mám snahu měnit svoje zvyky k lepšímu.
 | 23-10-02 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-01 | 1 | ? | ? | ? | ? | ? | ? |
  
+
 * * *
  
 ## 2023-09
@@ -46,6 +48,7 @@ I já mám snahu měnit svoje zvyky k lepšímu.
  
 * * *
  
+
 ## Zvyk A
 ### Zkvalitnění spánku
 Snažím se večer omezovat působení modrého světla. Mám nastavené filtry na obrazovkách a monitorech. Mobil na noc nabíjím mimo ložnici. Na spánek mám vyhrazených 8 hodin od 22:00 do 6:00.

@@ -3,16 +3,20 @@ layout: default
 ---
 
 # Blue
-Teďka je trendy mít svůj habit tracker, [Jaroslav Foglar](https://typomil.com/2018/10/dobry-den-jmenuji-se-martin-a-jsem-ten-uchyl-ktery-v-sestatriceti-zacal-zit-modrym-zivotem-jaroslava-foglara/) tomu říkal Modrý život.
-
-I já mám snahu měnit svoje zvyky k lepšímu.
+Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý život. I já mám snahu měnit svoje zvyky k lepšímu. 
 
 &nbsp;
+
+| Přehled    | [[A→]](#zvyk-a) | B | C | D | E | F | G |
+
+&nbsp;
+
+[[Inspirace→]](#inspirace)
 
 ## 2023-10
 * * *
 
-| Datum    | [A](#zvyk-a) | B | C | D | E | F | G |
+| Datum    | A | B | C | D | E | F | G |
 |:---------|:--|:--|:--|:--|:--|:--|:--|
 | 23-10-10 | ? | ? | ? | ? | ? | ? | ? |
 | 23-10-09 | ? | ? | ? | ? | ? | ? | ? |
@@ -47,7 +51,10 @@ I já mám snahu měnit svoje zvyky k lepšímu.
 
 * * *
 
-&nbsp;
+## Inspirace
+* [Modrý život](https://cs.wikipedia.org/wiki/Modr%C3%BD_%C5%BEivot) – heslo na Wikipedii 
+* [… jmenuji se Martin a jsem ten úchyl, který v šestatřiceti začal žít Modrým životem …](https://typomil.com/2018/10/dobry-den-jmenuji-se-martin-a-jsem-ten-uchyl-ktery-v-sestatriceti-zacal-zit-modrym-zivotem-jaroslava-foglara/) – neotřelý pohled typografa Martina Peciny
+* [Vyzkoušejte si Modrý život! Verze pro koronačasy](https://www.skaut.cz/vyzkousejte-si-modry-zivot-verze-pro-koronacasy/) – skautská korona verze
 
 ## Zvyk A
 ### Zkvalitnění spánku

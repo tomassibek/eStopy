@@ -3,16 +3,11 @@ layout: default
 ---
 
 # Blue
-
 Teďka je trendy mít svůj habit tracker, [Jaroslav Foglar](https://typomil.com/2018/10/dobry-den-jmenuji-se-martin-a-jsem-ten-uchyl-ktery-v-sestatriceti-zacal-zit-modrym-zivotem-jaroslava-foglara/) tomu říkal Modrý život. 
- 
 I já mám snahu měnit svoje zvyky k lepšímu.
- 
-
+&nbsp;
 ## 2023-10
-
 * * *
-
 | Datum    | [A](#zvyk-a) | B | C | D | E | F | G |
 |:---------|:--|:--|:--|:--|:--|:--|:--|
 | 23-10-10 | ? | ? | ? | ? | ? | ? | ? |
@@ -25,14 +20,10 @@ I já mám snahu měnit svoje zvyky k lepšímu.
 | 23-10-03 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-02 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-01 | 1 | ? | ? | ? | ? | ? | ? |
- 
-
 * * *
- 
+&nbsp;
 ## 2023-09
-
 * * *
-
 | Datum    | A | B | C | D | E | F | G |
 |:---------|:--|:--|:--|:--|:--|:--|:--|
 | 23-09-30 | 1 | ? | ? | ? | ? | ? | ? |
@@ -45,10 +36,8 @@ I já mám snahu měnit svoje zvyky k lepšímu.
 | 23-09-23 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-09-22 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-09-21 | 1 | ? | ? | ? | ? | ? | ? |
- 
 * * *
- 
-
+&nbsp;
 ## Zvyk A
 ### Zkvalitnění spánku
 Snažím se večer omezovat působení modrého světla. Mám nastavené filtry na obrazovkách a monitorech. Mobil na noc nabíjím mimo ložnici. Na spánek mám vyhrazených 8 hodin od 22:00 do 6:00.

@@ -7,7 +7,11 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 
 &nbsp;
 
-| Přehled    | [[A→]](#zvyk-a) | B | C | D | E | F | G |
+* * *
+
+| Zvyky:    | [[A→]](#zvyk-a) | B | C | D | E | F | G |
+
+* * *
 
 &nbsp;
 
@@ -51,10 +55,14 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 
 * * *
 
+&nbsp;
+
 ## Inspirace
 * [Modrý život](https://cs.wikipedia.org/wiki/Modr%C3%BD_%C5%BEivot) – heslo na Wikipedii 
 * [… jmenuji se Martin a jsem ten úchyl, který v šestatřiceti začal žít Modrým životem …](https://typomil.com/2018/10/dobry-den-jmenuji-se-martin-a-jsem-ten-uchyl-ktery-v-sestatriceti-zacal-zit-modrym-zivotem-jaroslava-foglara/) – neotřelý pohled typografa Martina Peciny
 * [Vyzkoušejte si Modrý život! Verze pro koronačasy](https://www.skaut.cz/vyzkousejte-si-modry-zivot-verze-pro-koronacasy/) – skautská korona verze
+
+&nbsp;
 
 ## Zvyk A
 ### Zkvalitnění spánku

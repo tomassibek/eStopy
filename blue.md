@@ -12,22 +12,22 @@ I já mám snahu měnit svoje zvyky k lepšímu.
 
 * * *
 
-| Datum    | A | B | C | D | E | F | G |
+| Datum    | [A](/#zvyk-a) | B | C | D | E | F | G |
 |:---------|:--|:--|:--|:--|:--|:--|:--|
 | 23-10-10 | ? | ? | ? | ? | ? | ? | ? |
 | 23-10-09 | ? | ? | ? | ? | ? | ? | ? |
 | 23-10-08 | ? | ? | ? | ? | ? | ? | ? |
 | 23-10-07 | ? | ? | ? | ? | ? | ? | ? |
 | 23-10-06 | ? | ? | ? | ? | ? | ? | ? |
-| 23-10-05 | ? | ? | ? | ? | ? | ? | ? |
-| 23-10-04 | ? | ? | ? | ? | ? | ? | ? |
+| 23-10-05 | 0 | ? | ? | ? | ? | ? | ? |
+| 23-10-04 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-03 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-02 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-01 | 1 | ? | ? | ? | ? | ? | ? |
  
 * * *
 
-## 2023-10
+## 2023-09
 
 * * *
 
@@ -45,3 +45,7 @@ I já mám snahu měnit svoje zvyky k lepšímu.
 | 23-09-21 | 1 | ? | ? | ? | ? | ? | ? |
  
 * * *
+
+## Zvyk A
+### Zkvalitnění spánku
+Snažím se večer omezovat působení modrého světla. Mám nastavené filtry na obrazovkách a monitorech. Mobil na noc nabíjím mimo ložnici. Na spánek mám vyhrazených 8 hodin od 22:00 do 6:00.

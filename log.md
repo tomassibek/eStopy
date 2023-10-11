@@ -5,6 +5,15 @@ layout: default
 # Log
 
 * * *
+`23-10-10`
+Po práci cesta do Prahy. Užívám si, že nedržím volant a zbylé pracovní úkoly řeším ve vlaku. Organizační mise v Holešovicích – doplnění vitamínů z bonusů od pojišťovny. Návštěva hrobu Adolfa Kajpra u sv. Ignáce. Večer koncert – dlouho odkládaná návštěva vystoupení kapely Paběrky, kapely trampských veteránů v čele s Marko Čermákem (83 let). Velká inspirace, jak naplňovat ideály a sny celý život.
+* * *
+`23-10-08`
+Návrat do Hradce. Dopoledne v barokním kostele Nanebevzetí Panny Marie v kapli sv. Ignáce. Městské schodiště Bono Publico a terasy Karla Otčenáška. Odpoledne organizační u labtopu v CrossCafe Knihovna s poslechem Young Gods (škoda, že je jejich úterní koncert vyprodán). Na závěr jsem si dal vyjížďku do Kotěrova městského muzea. Na moje poměry hodně pestrý víkend.
+* * *
+`23-10-07`
+Den v Hradci Králové. Dopoledne v městské knihovně od archiktekta Davida Vávry a odpoledne ve funkcionalistických městských lázních s vlnobitím od Kolbena a Daňka. Konečně jsem vyzkoušel Nextbike, systém městských sdílených bicyklů. Večer na koncertě Dub FX v Praze v Lucerna baru.
+* * *
 `23-10-01`
 Přesun kosatců a čištění Břehu – část druhá.
 * * *

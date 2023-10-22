@@ -9,19 +9,31 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 
 * * *
 
-| Zvyky:    | [[A→]](#zvyk-a) | B | C | D | E | F | G |
+| Zvyky:    | [[A]](#zvyk-a) | [[B]](#zvyk-b) | C | D | E | F | G |
 
 * * *
 
 &nbsp;
 
-[[Inspirace→]](#inspirace)
+[[Inspirace]](#inspirace)
 
 ## 2023-10
 * * *
 
 | Datum    | A | B | C | D | E | F | G |
 |:---------|:--|:--|:--|:--|:--|:--|:--|
+| 23-10-21 | ? | ? | ? | ? | ? | ? | ? |
+| 23-10-21 | 0 | 0 | ? | ? | ? | ? | ? |
+| 23-10-20 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-19 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-18 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-17 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-16 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-15 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-14 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-13 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-12 | 1 | ? | ? | ? | ? | ? | ? |
+| 23-10-11 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-10 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-09 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-08 | 1 | ? | ? | ? | ? | ? | ? |
@@ -67,3 +79,14 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 ## Zvyk A
 ### Zkvalitnění spánku
 Snažím se večer omezovat působení modrého světla. Mám nastavené filtry na obrazovkách a monitorech. Mobil na noc nabíjím mimo ložnici. Na spánek mám vyhrazených 8 hodin od 22:00 do 6:00.
+
+&nbsp;
+
+## Zvyk B
+### Doplňování vitamínů a fytoterapie
+
+&nbsp;
+
+## Zvyk C
+### Zkvalitnění stravy
+Hlavní výzvou je vyhradit si na každé jídlo dostatečný čas a mimo tyto časy nejíst. Dál odkládám čtení a práci při jídle. 

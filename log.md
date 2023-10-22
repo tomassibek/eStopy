@@ -5,6 +5,20 @@ layout: default
 # Log
 
 * * *
+`23-10-22`
+Po legraci práci. Úklid domu a balkonu. Po včerejšku hledáme taneční kurzy.
+* * *
+`23-10-21`
+Velmi pestrý den, který se povedl. Výjezd na Vysočinu do Peršíkova za Magdiným spolužákem z fytoterapie. Sbíráme podzimní plody, diskutujeme a absolvujeme krátkou procházku krásnou vlnitou krajinou. Ty tvary mě vždycky upoutají. Večeříme v indické restauraci v Havlíčkově Brodě na náměstí. Večer jsme protančili v kafé Garáž v Karlíně. Výbornou muziku pouštěl Dj Baltazar. Uleháme v 1:30.
+* * *
+`23-10-20`
+Velká událost v rámci našeho domu. Shromáždění SVJ po více jak 3 letech. Z výsledku jsem rozpačitý, ale vlastně mile překvapený. Přijali jsme plán řešit zateplení domu. Uvidíme na jaře.
+* * *
+`23-10-15`
+V sobotu fajn výjezd podél Berounky na kole. Potešilo mě, že jsme přes Sbazar udali nepotřebnou králičí klec.
+Neděle je ve znamení malé sousedské brigády, při které měníme pletivo plotu u našeho hřiště. Mám velkou radost pokaždé, když se mi podaří dát smysluplné věci do pohybu.
+Na konci víkendu jsem celkem vyčerpaný, obchází mě podzimní nachlazení.
+* * *
 `23-10-10`
 Po práci cesta do Prahy. Užívám si, že nedržím volant a zbylé pracovní úkoly řeším ve vlaku. Organizační mise v Holešovicích – doplnění vitamínů z bonusů od pojišťovny. Návštěva hrobu Adolfa Kajpra u sv. Ignáce. Večer koncert – dlouho odkládaná návštěva vystoupení kapely Paběrky, kapely trampských veteránů v čele s Marko Čermákem (83 let). Velká inspirace, jak naplňovat ideály a sny celý život.
 * * *

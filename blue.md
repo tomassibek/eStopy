@@ -17,8 +17,15 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 
 [[Inspirace]](#inspirace)
 
+## 2023-11
+
+| Datum    | A | B | C | D | E | F | G |
+|:---------|:--|:--|:--|:--|:--|:--|:--|
+| 23-11-01 | ? | ? | ? | ? | ? | ? | ? |
+
+&nbsp;
+
 ## 2023-10
-* * *
 
 | Datum    | A | B | C | D | E | F | G |
 |:---------|:--|:--|:--|:--|:--|:--|:--|
@@ -53,12 +60,9 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 | 23-10-02 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-10-01 | 1 | ? | ? | ? | ? | ? | ? |
 
-* * *
-
 &nbsp;
 
 ## 2023-09
-* * *
 
 | Datum    | A | B | C | D | E | F | G |
 |:---------|:--|:--|:--|:--|:--|:--|:--|
@@ -72,8 +76,6 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 | 23-09-23 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-09-22 | 1 | ? | ? | ? | ? | ? | ? |
 | 23-09-21 | 1 | ? | ? | ? | ? | ? | ? |
-
-* * *
 
 &nbsp;
 
@@ -104,4 +106,15 @@ Hlavní výzvou je vyhradit si na každé jídlo dostatečný čas a mimo tyto �
 ## Zvyk D
 ### Pohyb
 
+&nbsp;
+&nbsp;
+  _       _                
+ | |     | |               
+ | |__   | |  _   _    ___ 
+ | '_ \  | | | | | |  / _ \
+ | |_) | | | | |_| | |  __/
+ |_.__/  |_|  \__,_|  \___|
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;

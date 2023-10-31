@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Log
-
+* * *
 `23-10-29`
 Trocha práce na zahradě – konstrukce pro ostružinu, čištění a nátěr dveří u hřiště.
 * * *

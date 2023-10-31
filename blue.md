@@ -9,7 +9,7 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 
 * * *
 
-| Zvyky:    | [[A]](#zvyk-a) | [[B]](#zvyk-b) | C | D | E | F | G |
+| Zvyky:    | [[A]](#zvyk-a) | [[B]](#zvyk-b) | [[C]](#zvyk-c) | [[D]](#zvyk-d) | E | F | G |
 
 * * *
 
@@ -22,7 +22,15 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 
 | Datum    | A | B | C | D | E | F | G |
 |:---------|:--|:--|:--|:--|:--|:--|:--|
-| 23-10-21 | ? | ? | ? | ? | ? | ? | ? |
+| 23-10-30 | 1 | 1 | 1 | 1 | ? | ? | ? |
+| 23-10-29 | 0 | 0 | 1 | ? | ? | ? | ? |
+| 23-10-28 | 1 | 0 | 1 | ? | ? | ? | ? |
+| 23-10-27 | 1 | 1 | 1 | ? | ? | ? | ? |
+| 23-10-26 | 1 | 1 | 1 | ? | ? | ? | ? |
+| 23-10-25 | 1 | 1 | 1 | ? | ? | ? | ? |
+| 23-10-24 | 1 | 1 | 1 | ? | ? | ? | ? |
+| 23-10-23 | 1 | 1 | ? | ? | ? | ? | ? |
+| 23-10-22 | 1 | 1 | ? | ? | ? | ? | ? |
 | 23-10-21 | 0 | 0 | ? | ? | ? | ? | ? |
 | 23-10-20 | 1 | 1 | ? | ? | ? | ? | ? |
 | 23-10-19 | 1 | 1 | ? | ? | ? | ? | ? |
@@ -89,4 +97,11 @@ Snažím se večer omezovat působení modrého světla. Mám nastavené filtry 
 
 ## Zvyk C
 ### Zkvalitnění stravy
-Hlavní výzvou je vyhradit si na každé jídlo dostatečný čas a mimo tyto časy nejíst. Dál odkládám čtení a práci při jídle. 
+Hlavní výzvou je vyhradit si na každé jídlo dostatečný čas a mimo tyto časy nejíst. Dál odkládat čtení a práci při jídle.
+
+&nbsp;
+
+## Zvyk D
+### Pohyb
+
+&nbsp;

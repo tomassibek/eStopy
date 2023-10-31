@@ -4,12 +4,23 @@ layout: default
 
 # Log
 
+`23-10-29`
+Trocha práce na zahradě – konstrukce pro ostružinu, čištění a nátěr dveří u hřiště.
+* * *
+`23-10-28`
+Ranní cesta k prameni Ve Žlábku. Podzimní barevný les, místo, kde je mi dobře, kde se dokážu dívat i dovnitř. Konečně plním starý slib kmotřencovi. Jdeme do Minoru na Zá-to-pka! Všichni spoko, i holky.
+* * *
+`23-10-26`
+Odvoz dětí do Okrouhla. Home office na chatě. Večer přejezd na Jižák na zasedání Lomikelova výboru pro šíření Prakršna ohledně organizace Prvních čtvrtků.
+* * *
+`23-10-25`
+Velká věc, začali jsme chodit na salsa kurz.
 * * *
 `23-10-22`
 Po legraci práci. Úklid domu a balkonu. Po včerejšku hledáme taneční kurzy.
 * * *
 `23-10-21`
-Velmi pestrý den, který se povedl. Výjezd na Vysočinu do Peršíkova za Magdiným spolužákem z fytoterapie. Sbíráme podzimní plody, diskutujeme a absolvujeme krátkou procházku krásnou vlnitou krajinou. Ty tvary mě vždycky upoutají. Večeříme v indické restauraci v Havlíčkově Brodě na náměstí. Večer jsme protančili v kafé Garáž v Karlíně. Výbornou muziku pouštěl Dj Baltazar. Uleháme v 1:30.
+Velmi pestrý den, který se povedl. Výjezd na Vysočinu do Peršíkova za Magdiným spolužákem z fytoterapie. Sbíráme podzimní plody, diskutujeme a absolvujeme krátkou procházku krásnou vlnitou krajinou. Ty tvary mě vždycky upoutají. Večeříme v indické restauraci v Havlíčkově Brodě na náměstí. Večer jsme protančili v kafé Garáž v Karlíně společně s Lenkou a Davidem. Výbornou muziku pouštěl Dj Baltazar. Uleháme v 1:30.
 * * *
 `23-10-20`
 Velká událost v rámci našeho domu. Shromáždění SVJ po více jak 3 letech. Z výsledku jsem rozpačitý, ale vlastně mile překvapený. Přijali jsme plán řešit zateplení domu. Uvidíme na jaře.

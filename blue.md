@@ -3,19 +3,14 @@ layout: default
 ---
 
 # Blue
-Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý život. I já mám snahu měnit svoje zvyky k lepšímu. 
+* * *
+Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý život. Nechal jsem se [inspirovat](#inspirace) a mám snahu měnit svoje zvyky k lepšímu.
 
 &nbsp;
 
-* * *
+## Přehled
 
 | Zvyky:    | [[A]](#zvyk-a) | [[B]](#zvyk-b) | [[C]](#zvyk-c) | [[D]](#zvyk-d) | [[E]](#zvyk-e) | [[F]](#zvyk-f) | [[G]](#zvyk-g) |
-
-* * *
-
-&nbsp;
-
-[[Inspirace]](#inspirace)
 
 &nbsp;
 
@@ -86,82 +81,82 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 &nbsp;
 
 ## Inspirace
+* * *
 * [Modrý život](https://cs.wikipedia.org/wiki/Modr%C3%BD_%C5%BEivot) – heslo na Wikipedii 
 * [… jmenuji se Martin a jsem ten úchyl, který v šestatřiceti začal žít Modrým životem …](https://typomil.com/2018/10/dobry-den-jmenuji-se-martin-a-jsem-ten-uchyl-ktery-v-sestatriceti-zacal-zit-modrym-zivotem-jaroslava-foglara/) – neotřelý pohled typografa Martina Peciny
 * [Vyzkoušejte si Modrý život! Verze pro koronačasy](https://www.skaut.cz/vyzkousejte-si-modry-zivot-verze-pro-koronacasy/) – skautská korona verze
 
 &nbsp;
 
-* * *
-
-&nbsp;
-
 ## Zvyk A
+* * *
 ### Zkvalitnění spánku
 Snažím se večer omezovat působení modrého světla. Mám nastavené filtry na obrazovkách a monitorech. Mobil na noc nabíjím mimo ložnici. Na spánek mám vyhrazených 8 hodin od 22:00 do 6:00.
 
 &nbsp;
 
-* * *
-
-&nbsp;
-
 ## Zvyk B
-### Doplňování vitamínů a fytoterapie
-
-&nbsp;
-
 * * *
+### Doplňování vitamínů a fytoterapie
+...
 
 &nbsp;
 
 ## Zvyk C
+* * *
 ### Zkvalitnění stravy
 Hlavní výzvou je vyhradit si na každé jídlo dostatečný čas a mimo tyto časy nejíst. Dál odkládat čtení a práci při jídle.
 
 &nbsp;
 
-* * *
-
-&nbsp;
-
 ## Zvyk D
+* * *
 ### Pohyb
 ...
 
 &nbsp;
 
-* * *
-
-&nbsp;
-
 ## Zvyk E
+* * *
 ### ???
 ...
-
-&nbsp;
-
-* * *
 
 &nbsp;
 
 ## Zvyk F
+* * *
 ### ???
 ...
-
-&nbsp;
-
-* * *
 
 &nbsp;
 
 ## Zvyk G
+* * *
 ### ???
 ...
 
 &nbsp;
 
-* * *
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+&nbsp;
 
 &nbsp;
 

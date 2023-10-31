@@ -9,7 +9,7 @@ Teďka je trendy mít svůj habit tracker, Jaroslav Foglar tomu říkal Modrý �
 
 * * *
 
-| Zvyky:    | [[A]](#zvyk-a) | [[B]](#zvyk-b) | [[C]](#zvyk-c) | [[D]](#zvyk-d) | [E]](#zvyk-e) | [F]](#zvyk-f) | [G]](#zvyk-g) |
+| Zvyky:    | [[A]](#zvyk-a) | [[B]](#zvyk-b) | [[C]](#zvyk-c) | [[D]](#zvyk-d) | [[E]](#zvyk-e) | [[F]](#zvyk-f) | [[G]](#zvyk-g) |
 
 * * *
 
@@ -108,6 +108,10 @@ Snažím se večer omezovat působení modrého světla. Mám nastavené filtry 
 
 ## Zvyk B
 ### Doplňování vitamínů a fytoterapie
+
+&nbsp;
+
+* * *
 
 &nbsp;
 

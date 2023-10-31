@@ -12,4 +12,3 @@ Jako většina zanechávám spoustu zbytečných stop v síti, ale mám tu v nic
 
 &nbsp;
 
-![Tomáš Síbek – ASCII portrét](/tomas_ascii.jpg)

@@ -3,6 +3,22 @@ layout: default
 ---
 
 # Log
+
+* * *
+`23-11-09`
+Po práci zazimovávám trampolínu a řeším světla na chodbách.
+* * *
+`23-11-08`
+Salsa po třetí.
+* * *
+`23-11-05`
+Rozlítaný víkend. Magda v Hradci na studiu fytoterapie. V pátek chystám s Emou Halloween přespávačku. V sobotu vyzvedáváme Markétku a jedeme k mamce do Prahy. Po obědě je naší misí převoz exponátů a zboží do Betlémské kaple, kde bude mít mamka opět věci na Vánoční výstavě. Holky měly neodolatelnou potřebu zkusit Starbucks. Domů se vracím jen na otočku a razím do Dejvické klubovny na Gordon Cole. V neděli máme fajn procházku, opět ke Žlábku.
+* * *
+`23-11-02`
+Krhútský první čtvrtek U Kašpárka. Potěšitelná účast, fajn společnost.
+* * *
+`23-11-01`
+Konzultace, holič a salsa. Něco nového začíná?
 * * *
 `23-10-29`
 Trocha práce na zahradě – konstrukce pro ostružinu, čištění a nátěr dveří u hřiště.

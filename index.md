@@ -4,7 +4,7 @@ layout: default
 
 # Stopy v síti
 
-**Jmenuju se Tomáš Síbek. Pomáhám online projektům do cíle. Pracuju v Kinetu. Žiju mezi Karlštejnem a Křivoklátem. Radost mi dělají rodina, zahrada, lesy, knížky a muzika.**
+**Jmenuju se Tomáš Síbek. Žiju mezi Karlštejnem a Křivoklátem. Pracuju v Kinetu, kde pomáhám online projektům do cíle. Radost mi dělají rodina, zahrada, lesy, knížky a muzika.**
 
 &nbsp;
 

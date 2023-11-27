@@ -5,6 +5,36 @@ layout: default
 # Log
 
 * * *
+`23-11-26`
+Oslava Mediných narozenin. Jsme skvěle sehraný tým. Večer koncert Der Šenster Gob a Lea Kalish v bývalé synagoze v Hořovicách, dnes modlitebna Evangelické církve. Lea je rebelující židovská pop star, koncert na sezení byl až nepatřičný.
+* * *
+`23-11-25`
+Výměna kuchyňské baterie, sestavování nového konferenčního stolku. Večer dětská diskotéka na Tetíně, holky spoko.
+* * *
+`23-11-24`
+Po práci do Prahy, nákup v Ikea, pak hledání podniku na Magdinu oslavu (Zázemí, Skatský institut), vyzvednutí Magdy a Jany na koncertu Načevy v Kasárnách Karlín, exkurze do Crossu a noční cesta domů.
+* * *
+`23-11-21`
+Velký call se security týmem velké nadnárodní korporace. Výsledek dobrý. Doufám, že stránky SP dostaneme konečně do cíle.
+* * *
+`23-11-19`
+Cestou na Brdy krátká zastávka pod Zátorem. U Smolíků na skvělém obědě, pak opět do Brd, okruh kolem Písku nad Hostomicemi. 
+* * *
+`23-11-18`
+Doma holky dokončují třídění oblečení, takže řeším odvoz, nákup a další domácí práce. Večer koncert Monkey Business v klubu Labe v Hořovicích.
+* * *
+`23-11-17`
+Dovolená, den jen pro sebe. Realizuju starý plán, návrat do krajiny mých předků, do krajiny Krhútských táborů. Vlakem do Smetanovy Lhoty. Cestou čtu Erica Berneho. První kroky vedou do lesního zámečku Karlov, vzpomínka na Karla Schwarzenberga. Potom podél Lomnice do Mirotic. Čaj na Větvi. Hledání předků na katolickém hřbitově, meditace na hřbitově židovském. Pak přes Budský dvůr a hájovnu na Malý i Velký Kosatín (v lese viklan a halštatské mohyly) a nakonec až na keltské hradiště u Čimelic. Na samotě U Nováků mě přivítal obrovský slintající pes a zamrazil starý příběh o utonulém dítěti. Stavba dálnice trochu narušila zádumčovou pouť. Nakonec mě ale dojala krásná stará alej z Rakovic do Čimelického zámku. Budu se vracet.
+* * *
+`23-11-14`
+Online potkání s Petrem, řešíme stránky Takafata.
+* * *
+`23-11-12`
+Víkend v Okrouhle. Brácha s Jéžou pořádají vepřové hody. Moc mě potešila setkání s Krhúty, dokonce dorazila i Honzina.
+* * *
+`23-11-10`
+Kontrola mixážního pultu v KC sv. Ludmily na Tetíně pmpříprava na diskotéku pro děti.
+* * *
 `23-11-09`
 Po práci zazimovávám trampolínu a řeším světla na chodbách.
 * * *
